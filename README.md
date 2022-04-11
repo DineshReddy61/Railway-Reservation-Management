@@ -23,7 +23,7 @@ number, name, source, destination, and days on which it is available, whereas re
 </html>
 
 
-![image](https://user-images.githubusercontent.com/76832424/162729106-f69292d9-cd30-4817-b96e-05d386ae1a93.png)
+![image](https://user-images.githubusercontent.com/79517918/162801840-11a96206-6878-485e-ad15-c88b110c8347.png)
 
 # Conclusion
 In our project Railway reservation system we have stored all the information about the Trains 
